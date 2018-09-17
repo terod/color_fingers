@@ -1,0 +1,99 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/darkSkin"
+        android:title="1.Dark Skin"/>
+    
+    <item
+		android:id="@+id/lightSkin"
+        android:title="2.Light Skin"/>
+    
+    <item
+		android:id="@+id/blueSky"
+        android:title="3.Blue Sky"/>
+    
+    <item
+		android:id="@+id/foliage"
+        android:title="4.Foliage"/>
+    
+    <item
+		android:id="@+id/blueFlower"
+        android:title="5.Blue flower"/>
+    
+    <item
+		android:id="@+id/bluishGreen"
+        android:title="6.Bluish Green"/>
+    
+    <item
+		android:id="@+id/orange"
+        android:title="7.Orange"/>
+    
+    <item
+		android:id="@+id/purplishBlue"
+        android:title="8.Purplish Blue"/>
+    
+    <item
+		android:id="@+id/moderateRed"
+        android:title="9.Moderate Red"/>
+    
+    <item
+		android:id="@+id/purple"
+        android:title="10.Purple"/>
+    
+    <item
+		android:id="@+id/yellowGreen"
+        android:title="11.Yellow Green"/>
+    
+    <item
+		android:id="@+id/orangeYellow"
+        android:title="12.Orange Yellow"/>
+    
+    <item
+		android:id="@+id/blue"
+        android:title="13.Blue"/>
+    
+    <item
+		android:id="@+id/green"
+        android:title="14.Green"/>
+    
+    <item
+		android:id="@+id/red"
+        android:title="15.Red"/>
+    
+    <item
+		android:id="@+id/yellow"
+        android:title="16.Yellow"/>
+    
+    <item
+		android:id="@+id/magenta"
+        android:title="17.Magenta"/>
+    
+    <item
+		android:id="@+id/cyan"
+        android:title="18.Cyan"/>
+    
+    <item
+		android:id="@+id/white"
+        android:title="19.White"/>
+    
+    <item
+		android:id="@+id/neutral8"
+        android:title="20.Neutral8"/>
+    
+    <item
+		android:id="@+id/neutral65"
+        android:title="21.Neutral6.5"/>
+    
+    <item
+		android:id="@+id/neutral5"
+        android:title="22.Neutral5"/>
+    
+    <item
+		android:id="@+id/neutral35"
+        android:title="23.Neutral3.5"/>
+    
+    <item
+		android:id="@+id/black"
+        android:title="24.Black"/>
+    
+</menu>

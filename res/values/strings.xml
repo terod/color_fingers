@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, IndicateTouchLocationActivity!</string>
+    <string name="app_name">ColorFingers</string>
+    <string name="tvIntro">Select two toggle buttons to see the color combo</string>
+    <string name="rb_blue">Blue</string>
+    <string name="rb_red">Red</string>
+    <string name="rb_green">Green</string>
+    <string name="wheelDesc">colorwheel</string>
+    <string name="tvSelectHint1">Select color for finger 1</string>
+    <string name="tvSelectHint2">Select color for finger 2</string>
+    <string name="tvDrawHint">Use 1 or 2 of your fingers to get the combo in the below screen</string>
+</resources>

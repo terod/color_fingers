@@ -3,8 +3,8 @@ package com.reice.misc.ColorFingers;
 /**
  * Write a description of class AngleCalc here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author George Ebbinason
+ * @version v1
  */
 public class ColorCalc
 {

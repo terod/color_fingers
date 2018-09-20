@@ -1,7 +1,6 @@
 package com.reice.misc.ColorFingers;
 
 /**
- * Write a description of class AngleCalc here.
  * 
  * @author George Ebbinason
  * @version v1

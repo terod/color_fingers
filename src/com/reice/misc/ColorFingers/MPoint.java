@@ -1,5 +1,10 @@
 package com.reice.misc.ColorFingers;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class MPoint {
 
 	public double x, y;

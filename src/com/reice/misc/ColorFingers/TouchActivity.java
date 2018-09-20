@@ -27,6 +27,11 @@ import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 //import android.widget.RadioGroup;
 
+/**
+ * 
+ * @author George Ebbinason
+ * @version v1
+ */
 public class TouchActivity extends Activity {
 
 	// min finger-pixel movement to indicate change change in position
